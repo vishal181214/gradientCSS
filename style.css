@@ -1,0 +1,176 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    width: 100%;
+}
+
+.header {
+    padding-bottom: 1%;
+}
+
+.heading {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20PX;
+    padding: 2px 0px 2px 0px;
+    text-decoration: underline;
+    background-image: linear-gradient(to right, red, green, yellow);
+}
+
+.nav {
+    padding: 4px 0px 4px 0px;
+    border: 3px solid red;
+    width: 60%;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-left: 20%;
+    font-weight: bold;
+    list-style: inside;
+    list-style-type: disc;
+    background-color: rgb(191, 245, 245);
+}
+
+.nav ul {
+    margin-left: 50%;
+    font-weight: bold;
+}
+
+.content {
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: aqua;
+    height: auto;
+    justify-content: space-evenly;
+}
+
+.card {
+    border: 2px solid black;
+    background-color: rgb(108, 215, 236);
+    margin-top: 0%;
+    width: 24%;
+    padding: 1%;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+
+.cardOne {
+    float: left;
+}
+
+.cardTwo {
+    float: left;
+}
+
+.cardThree {
+    float: right;
+    margin-right: 5%;
+}
+
+.cardFour {
+    clear: both;
+    margin-top: 1%;
+    margin-left: 36.2%;
+}
+
+.top {
+    background-image: linear-gradient(to right, red, orange, red);
+    margin-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.schol {
+    border: 5px solid green;
+    background-image: radial-gradient(#0b40de, #2e85e8, green);
+    margin-top: 1%;
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.stud {
+    width: 15%;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 10px;
+    line-height: 25px;
+    font-weight: bolder;
+    border: 2px solid red;
+    color: red;
+    background-color: rgb(241, 212, 83);
+}
+
+.best {
+    margin-top: 2%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.extra {
+    margin-top: 1%;
+    width: 100%;
+    display: flex;
+}
+
+.data {
+    border: 2px solid white;
+    width: 96%;
+}
+
+.list {
+    width: 5%;
+    background-color: black;
+    color: white;
+    list-style: inside;
+    margin-left: 1%;
+}
+
+.big {
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+.offer {
+    padding: 1px;
+    width: 30%;
+}
+
+.one {
+    text-align: center;
+    background-color: green;
+}
+
+.two {
+    background-color: #2e85e8;
+}
+
+.three {
+    background-color: blue;
+}
+
+.text {
+    margin-top: 1%;
+    background-color: orange;
+    color: white;
+    padding-bottom: 5%;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.all {
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+    margin-top: 1%;
+}
